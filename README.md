@@ -6,7 +6,7 @@ This is the code for the Twitter Sentiment Analyzer . The code uses the tweepy l
 
 ##Dependencies
 
-tweepy (http://www.tweepy.org/)
-textblob (https://textblob.readthedocs.io/en/dev/)
-Install missing dependencies using pip
+1)tweepy (http://www.tweepy.org/)
+2)textblob (https://textblob.readthedocs.io/en/dev/)
+  Install missing dependencies using pip
 
